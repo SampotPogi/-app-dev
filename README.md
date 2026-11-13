@@ -9,8 +9,8 @@ Suits is a legal drama series about lawyers working in a law firm in New York. T
 
 ## My Favorite Characters
 
-- **Harvey Specter** - I like how confident he is and how he handles difficult situations.
-- **Mike Ross** - He is intelligent and can remember almost everything he reads.
+- **Harvey Specter** - I can see myself in him I like how confident he is and how he handles difficult situations.
+- **Mike Ross** - He is intelligent and has a photographic memory.
 - **Donna Paulsen** - She is smart and always knows what's happening around the office.
 - **Louis Litt** - He can be funny sometimes, but he is also good at his job.
 
